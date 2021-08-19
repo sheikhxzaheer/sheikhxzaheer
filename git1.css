@@ -116,9 +116,10 @@ h6 {
     color: black;
     border: #fff solid 3px;
 }
-.button1, .button2:hover {
-    background-color: #c2940b;
+.button1:hover, .button2:hover{
+    background-color: #e6af08eb;
     transition: 0.5s ease;
+    /* border: #212121ba 3px solid; */
 }
 .about {
     display: grid;
@@ -172,7 +173,7 @@ h6 {
     width: 80px;
 }
 .pcard {
-    max-width: 30rem;
+    max-width: 23rem;
     display: flex;
     flex-direction: column;
 }
@@ -195,8 +196,8 @@ form {
     display: flex;
     flex-direction: column;
     border: none;
+    border-radius: 10px;
 }
-
 footer {
     background-color: #000;
     color: #fff;
@@ -225,9 +226,9 @@ footer {
     margin: 50px 0;
 }
 input::after {
-    content: "";
+    /* content: "";
     background-image: url("/images/person_black_24dp.svg");
-    border: 20px solid black;
+    border: 20px solid black; */
 }
 .contactimg {
     margin: 50px;
