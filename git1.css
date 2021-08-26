@@ -7,24 +7,63 @@
     scroll-behavior: smooth;
     
 }
-.scrollcontainer{
-    /* scroll-snap-type: y proximity;
-    overflow-y: scroll;
-    height: 100vh; */
-    
+.scroller {
+	width: 100%;
+	height: 100%;
+	display: flex;
+	align-items: flex-end;
+	justify-content: center;
 }
+
+.scrollicon {
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+}
+
+.mouse {
+	width: 30px;
+	height: 50px;
+	border: 2px solid rgb(230, 230, 230);
+	border-radius: 50px;
+	position: relative;
+}
+.mouse::before {
+		content: '';
+		width: 4px;
+		height: 8px;
+		position: absolute;
+		top: 10px;
+		left: 50%;
+		transform: translateX(-50%);
+		background-color: rgb(233, 233, 233);
+		border-radius: 10px;
+		opacity: 1;
+		animation: wheel 2s infinite;
+		-webkit-animation: wheel 2s infinite;
+	}
+
+
+@keyframes wheel {
+	to {
+		opacity: 0;
+		top: 30px;
+	}
+}
+
 section {
     background-color: #f4f4f4;
-    /* scroll-snap-align: start;  */
+    /* scroll-snap-align: start; */
     /* height: 100vh; */
+    margin: 0px;
 }
 .home {
     color: #fff;
-    background-color: black;
     height: 100vh;
     display: grid;
-    grid-template-columns: 50% 40% 10%;
+    grid-template-columns: 50% 5% 45% ;
     grid-template-rows: 10vh 90vh;
+    background: linear-gradient(45deg,#1a2d4f, #263859 );
 }
 nav,
 .navul {
@@ -59,6 +98,7 @@ nav {
 .navul :hover {
     color: #ffc107;
     transition: 0.5s ease;
+    margin-bottom: 3px;
 }
 .heading {
     padding: 10px 20px;
@@ -83,11 +123,11 @@ h3 {
     padding: 10px 0;
 }
 h4{
-   
+    
 }
 p{
     opacity: 0.8;
-    font-size: 15px;
+    font-size: 14px;
 }
 h6 {
     font-size: 13px;
@@ -215,7 +255,7 @@ footer {
     display: flex;
     flex-direction: column;
     white-space: pre-line;
-    padding: 20px;
+    /* padding: 20px; */
 }
 .footerlink {
     color: #fff;
@@ -227,8 +267,8 @@ footer {
 }
 .footerlink:hover{
     color: #ffc107;
-    /* scroll-behavior: smooth;
-     */
+    margin-left: 3px;
+    transition: 0.5s ease;
 }
 .copyright {
     grid-column: 1/6;
