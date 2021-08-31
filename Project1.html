@@ -9,7 +9,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap" rel="stylesheet">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="git1.css">
+    <link rel="stylesheet" href="Project1.css">
     <title>Document</title>
 </head>
 
@@ -127,6 +127,7 @@
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Distinctio, natus?</p>
                 </div>
             </div>
+        </div>
         </div>
     </section>
     <section id="services" class="services">
@@ -302,15 +303,18 @@
 
                 <h2>New Business</h2>
                 <a class="footerlink">sheikhzaheer037@gmail.com</a>
-                <a class="footerlink">+91 933 020 2696</a>
+                <a style="font-size: 14px; padding: 10px 0 0 0; " id="p1">+91 933 020 2696
+                    <button class="copybutton" onclick="copyToClipboard('#p1')"></button>
+                </a>
             </div>
             <div class="container">
                 <h2>Follow</h2>
-                <a href="https://www.facebook.com/sheikhxzaheer" class="footerlink">Facebook</a>
-                <a href="https://www.instagram.com/sheikhxzaheer/" class="footerlink">Instagram</a>
-                <a href="https://www.twitter.com/sheikhxzaheer" class="footerlink">Twitter</a>
-                <a href="https://www.linkedin.com/sheikhxzaheer?_l=en_US" class="footerlink">LinkedIn</a>
-                <a href="https://www.youtube.com/SheikhZaheer" class="footerlink">YouTube</a>
+                <a href="https://www.facebook.com/sheikhxzaheer" target="_blank" class="footerlink">Facebook</a>
+                <a href="https://www.instagram.com/sheikhxzaheer/" target="_blank" class="footerlink">Instagram</a>
+                <a href="https://www.twitter.com/sheikhxzaheer" target="_blank" class="footerlink">Twitter</a>
+                <a href="https://www.linkedin.com/sheikhxzaheer?_l=en_US" target="_blank"
+                    class="footerlink">LinkedIn</a>
+                <a href="https://www.youtube.com/SheikhZaheer" target="_blank" class="footerlink">YouTube</a>
             </div>
             <div class="container">
                 <h2>Legal</h2>
@@ -327,6 +331,8 @@
             </div>
         </div>
     </footer>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="Project1.js"></script>
 </body>
 
 </html>
