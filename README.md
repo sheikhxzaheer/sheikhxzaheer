@@ -1,3 +1,4 @@
+<img src="https://media.licdn.com/dms/image/C5616AQFeWvn-2ZaIGg/profile-displaybackgroundimage-shrink_350_1400/0/1615376949744?e=1686787200&v=beta&t=pnjq7llHMjGrW243zkPjbSQ-9uPxAygB_STDlO9OyTE" width="100%">
 <h1 align="center">Hello,This is Sheikh Zaheer</h1>
 <h3 align="center">I'm a full stack developer with a passion for building great websites and web applications. My primary development stack includes Python and Django, which I use to create robust and scalable web solutions.</h3>
 
@@ -6,6 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheikhxzaheer" target="blank"><img src="https://img.shields.io/twitter/follow/sheikhxzaheer?logo=twitter&style=for-the-badge" alt="sheikhxzaheer" /></a> </p>
 
+<img align="right" src="https://github.com/sheikhxzaheer/zcommerce/blob/master/static/images/404.gif?raw=true" width="40%">
 - 🔭 I’m currently working on **zCommerce Project**
 
 - 🌱 I’m currently learning **Fast API, MySQL**
