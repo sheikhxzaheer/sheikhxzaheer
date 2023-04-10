@@ -1,7 +1,6 @@
 <h1 align="center">Hello,This is Sheikh Zaheer</h1>
 <h3 align="center">I'm a full stack developer with a passion for building great websites and web applications. My primary development stack includes Python and Django, which I use to create robust and scalable web solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheikhxzaheer&label=Profile%20views&color=0e75b6&style=flat" alt="sheikhxzaheer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhxzaheer" alt="sheikhxzaheer" /></a> </p>
 
@@ -18,7 +17,7 @@
 - ⚡ Fun fact **I work without disturbing anyone**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" gap="20px" display="flex">
 <a href="https://codepen.io/sheikhxzaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sheikhxzaheer" height="30" width="40" /></a>
 <a href="https://twitter.com/sheikhxzaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheikhxzaheer" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sheikhxzaheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheikhxzaheer" height="30" width="40" /></a>
