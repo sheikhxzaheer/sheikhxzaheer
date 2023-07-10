@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sheikhxzaheer/sheikhxzaheer/main/Black%20Technology%20LinkedIn%20Banner.png?token=GHSAT0AAAAAACE4ILQNED5TJP2ZNQ3ZORVYZFLAQFA" width="100%">
+<img src="https://zade.vercel.app/static/images/Black%20Technology%20LinkedIn%20Banner.png" width="100%">
 <h1 align="center">This is Sheikh Zaheer</h1>
 
 
