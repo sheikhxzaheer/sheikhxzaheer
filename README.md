@@ -3,7 +3,7 @@
 
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=600&size=40&pause=1000&color=38bdae&center=true&vCenter=true&width=435&lines=Python+Developer;App+Developer;Web+Designer;Web+Developer" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=600&size=40&pause=1000&color=0468d7&center=true&vCenter=true&width=435&lines=Python+Developer;App+Developer;Web+Designer;Web+Developer" alt="Typing SVG" /></a>
 </p>
 <h6 align="center">I am an experienced Full Stack Developer with expertise in web designing, web development, and app development. With a strong background in Python, Django, Flask, Flutter, Dart, HTML, CSS, JavaScript, jQuery, Bootstrap, Git, and GitHub, I am skilled at creating dynamic and interactive web and mobile applications.</h6>
 <p align="left"> 
