@@ -3,7 +3,7 @@
 
 
 <p align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=40&duration=1000&pause=500&color=F79100&center=true&vCenter=true&width=435&lines=Software+Developer;AI%2FML+Developer;Mobile+App+Developer;Web+Developer;Web+Designer" alt="Typing SVG" /></a>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=40&duration=1000&pause=500&color=38BDAE&center=true&vCenter=true&width=435&lines=Software+Developer;AI%2FML+Developer;Mobile+App+Developer;Web+Developer;Web+Designer" alt="Typing SVG" /></a>
 </p>
 <h6 align="center">I am an experienced Full Stack Developer with expertise in web designing, web development, and app development. With a strong background in Python, Django, Flask, Flutter, Dart, HTML, CSS, JavaScript, jQuery, Bootstrap, Git, and GitHub, I am skilled at creating dynamic and interactive web and mobile applications.</h6>
 <p align="left"> 
@@ -12,13 +12,14 @@
 
 
 <img align="right" src="https://github.com/sheikhxzaheer/zcommerce/blob/master/static/images/404.gif?raw=true" width="40%">
-- 🔭 I’m currently working on **zCommerce Project**
 
-- 🌱 I’m currently learning **Fast API, MySQL**
+- 🔭 I’m currently working on [Republic of Influencers](https://play.google.com/store/apps/details?id=com.kreativemachinez.roi&hl=en)
 
-- 💬 Ask me about **Python, Node js and Flutter**
+- 🌱 I’m currently learning **Langchain, Hugging Face**
 
-- 📫 How to reach me **sheikhzaheer@gmail.com**
+- 💬 Ask me about **Node js, Django, Flutter**
+
+- 📫 How to reach me **iamsheikhzaheer@gmail.com**
 
 - ⚡ Fun fact **I work without disturbing anyone**
 
