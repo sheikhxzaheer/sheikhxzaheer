@@ -5,7 +5,7 @@
 <p align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=40&duration=1000&pause=500&color=38BDAE&center=true&vCenter=true&width=435&lines=Software+Developer;AI%2FML+Developer;Mobile+App+Developer;Web+Developer;Web+Designer" alt="Typing SVG" /></a>
 </p>
-<h6 align="center">I am an experienced Full Stack Developer with expertise in web designing, web development, and app development. With a strong background in Python, Django, Flask, Flutter, Dart, HTML, CSS, JavaScript, jQuery, Bootstrap, Git, and GitHub, I am skilled at creating dynamic and interactive web and mobile applications.</h6>
+<h6 align="center">I am a skilled Software Developer proficient in full-stack development, AI, mobile app development, and web scraping. I have experience building user interfaces, creating WebSockets, handling database authentication, and deploying projects. My project portfolio includes face recognition, e-commerce websites, and employee management systems.</h6>
 <p align="left"> 
    <a href="https://github.com/sheikhxzaheer/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhxzaheer&&theme=oldie" alt="sheikhxzaheer" /></a> 
 </p>
