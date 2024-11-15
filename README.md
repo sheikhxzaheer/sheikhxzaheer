@@ -1,4 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQG7o_r1yRBi6g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719352765236?e=1732147200&v=beta&t=mlJ8sv76mHgpWSP_Ia6cJrhzvTe_IS-yv8D6JfSdF1w" width="100%">
 <h1 align="center">This is Sheikh Zaheer</h1>
 
 
@@ -6,12 +5,6 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=40&duration=1000&pause=500&color=38BDAE&center=true&vCenter=true&width=435&lines=Software+Developer;AI%2FML+Developer;Mobile+App+Developer;Web+Developer;Web+Designer" alt="Typing SVG" /></a>
 </p>
 <h6 align="center">I am a skilled Software Developer proficient in full-stack development, AI, mobile app development, and web scraping. I have experience building user interfaces, creating WebSockets, handling database authentication, and deploying projects. My project portfolio includes face recognition, e-commerce websites, and employee management systems.</h6>
-<p align="left"> 
-   <a href="https://github.com/sheikhxzaheer/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheikhxzaheer&&theme=oldie" alt="sheikhxzaheer" /></a> 
-</p>
-
-
-<img align="right" src="https://github.com/sheikhxzaheer/zcommerce/blob/master/static/images/404.gif?raw=true" width="40%">
 
 - 🔭 I’m currently working on [Republic of Influencers](https://play.google.com/store/apps/details?id=com.kreativemachinez.roi&hl=en)
 
